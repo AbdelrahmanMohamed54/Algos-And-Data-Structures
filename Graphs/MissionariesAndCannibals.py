@@ -1,5 +1,3 @@
-
-
 #import shortest_path_algorithm
 from shortest_path import shortest_path_search
 
