@@ -27,7 +27,7 @@ In this repository, you'll find a wide array of problems solved and data structu
     <td align="center">
       <a href="https://github.com/AbdelrahmanMohamed54/Algos-And-Data-Structures/tree/main/Graphs">
         <img src="https://www.codespeedy.com/wp-content/uploads/2020/05/graphcolouring.jpeg" alt="Graph problems" width="100" height="100"/>
-        <br>Graph problems
+        <br>Graph Problems
       </a>
     </td>
     <td align="center">
