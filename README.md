@@ -27,9 +27,9 @@ In this repository, you'll find a wide array of problems solved and data structu
       </a>
     </td>
     <td align="center">
-      <a href="LINK_TO_SEARCHING_FOLDER">
-        <img src="LINK_TO_SEARCHING_IMAGE" alt="Searching Algorithms" width="100" height="100"/>
-        <br>Searching Algorithms
+      <a href="https://github.com/AbdelrahmanMohamed54/Algos-And-Data-Structures/tree/main/Lists">
+        <img src="https://www.tutorialstonight.com/assets/python/add-items-to-python-list-example.png" alt="Lists" width="100" height="100"/>
+        <br>Lists Data Structure
       </a>
     </td>
     <!-- Add more cells for other categories -->
