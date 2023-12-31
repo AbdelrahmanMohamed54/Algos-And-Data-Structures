@@ -32,16 +32,28 @@ In this repository, you'll find a wide array of problems solved and data structu
         <br>Lists Data Structure
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/AbdelrahmanMohamed54/Algos-And-Data-Structures/tree/main/Recursion">
+        <img src="https://scaler-topics-articles-md.s3.us-west-2.amazonaws.com/recursion-in-python-with-numbers.webp" alt="Recursion" width="100" height="100"/>
+        <br>Recursion
+      </a>
+    </td>
     <!-- Add more cells for other categories -->
   </tr>
   <tr>
     <td align="center">
-      <a href="LINK_TO_TREE_FOLDER">
-        <img src="LINK_TO_TREE_IMAGE" alt="Trees" width="100" height="100"/>
-        <br>Trees
+      <a href="https://github.com/AbdelrahmanMohamed54/Algos-And-Data-Structures/tree/main/Sorting">
+        <img src="https://miro.medium.com/v2/resize:fit:432/1*Bdv_19j6x6oqZc8auXpaGg.jpeg" alt="Sorting" width="100" height="100"/>
+        <br>Sorting Algorithms
       </a>
     </td>
     <td align="center">
+      <a href="LINK_TO_GRAPH_FOLDER">
+        <img src="LINK_TO_GRAPH_IMAGE" alt="Graphs" width="100" height="100"/>
+        <br>Graphs
+      </a>
+    </td>
+     <td align="center">
       <a href="LINK_TO_GRAPH_FOLDER">
         <img src="LINK_TO_GRAPH_IMAGE" alt="Graphs" width="100" height="100"/>
         <br>Graphs
