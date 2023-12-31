@@ -38,6 +38,12 @@ In this repository, you'll find a wide array of problems solved and data structu
         <br>Recursion
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/AbdelrahmanMohamed54/Algos-And-Data-Structures/blob/main/Coursework.pdf">
+        <img src="https://www.archcareersguide.com/wp-content/uploads/2018/09/coursework.jpg" alt="Coursework" width="100" height="100"/>
+        <br>Coursework
+      </a>
+    </td>
     <!-- Add more cells for other categories -->
   </tr>
   <tr>
@@ -57,6 +63,12 @@ In this repository, you'll find a wide array of problems solved and data structu
       <a href="https://github.com/AbdelrahmanMohamed54/Algos-And-Data-Structures/tree/main/Selected_random_gen">
         <img src="https://i.stack.imgur.com/24q4M.png" alt="Random Generation" width="100" height="100"/>
         <br>Random Generation
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AbdelrahmanMohamed54/Algos-And-Data-Structures/blob/main/TheThreeAlgosComparision.pdf">
+        <img src="https://www.adobe.com/acrobat/guides/media_1a9bab53a3ff7e46552a672082d10594be0de2f12.png?width=750&format=png&optimize=medium" alt="Three Algorithms research" width="100" height="100"/>
+        <br>Algorithms speed comparision
       </a>
     </td>
     <!-- Add more cells for other categories -->
