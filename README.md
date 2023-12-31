@@ -66,7 +66,7 @@ In this repository, you'll find a wide array of problems solved and data structu
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/AbdelrahmanMohamed54/Algos-And-Data-Structures/blob/main/TheThreeAlgosComparision.pdf">
+      <a href="https://github.com/AbdelrahmanMohamed54/Algos-And-Data-Structures/tree/main/ThreeAlgosComparision">
         <img src="https://www.adobe.com/acrobat/guides/media_1a9bab53a3ff7e46552a672082d10594be0de2f12.png?width=750&format=png&optimize=medium" alt="Three Algorithms research" width="100" height="100"/>
         <br>Algorithms speed comparision
       </a>
