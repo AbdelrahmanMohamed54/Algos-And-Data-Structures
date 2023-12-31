@@ -48,15 +48,15 @@ In this repository, you'll find a wide array of problems solved and data structu
       </a>
     </td>
     <td align="center">
-      <a href="LINK_TO_GRAPH_FOLDER">
-        <img src="LINK_TO_GRAPH_IMAGE" alt="Graphs" width="100" height="100"/>
-        <br>Graphs
+      <a href="https://github.com/AbdelrahmanMohamed54/Algos-And-Data-Structures/tree/main/Trees">
+        <img src="https://miro.medium.com/v2/resize:fit:1126/0*19Nw2IJzzyQiLtP3.png" alt="Trees" width="100" height="100"/>
+        <br>Trees
       </a>
     </td>
      <td align="center">
-      <a href="LINK_TO_GRAPH_FOLDER">
-        <img src="LINK_TO_GRAPH_IMAGE" alt="Graphs" width="100" height="100"/>
-        <br>Graphs
+      <a href="https://github.com/AbdelrahmanMohamed54/Algos-And-Data-Structures/tree/main/Selected_random_gen">
+        <img src="https://i.stack.imgur.com/24q4M.png" alt="Random Generation" width="100" height="100"/>
+        <br>Random Generation
       </a>
     </td>
     <!-- Add more cells for other categories -->
