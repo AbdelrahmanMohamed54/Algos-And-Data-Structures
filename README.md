@@ -6,17 +6,39 @@ Welcome to my Algorithms and Data Structures Repository! A comprehensive collect
 ---
 
 ## Coursework Overview
+
 In this repository, you'll find a wide array of problems solved and data structures implemented, including but not limited to:
 
-- Sorting and Searching Algorithms
-- Tree and Graph Algorithms
-- Dynamic Programming Solutions
-- Data Structures like Linked Lists, Trees, Graphs, Stacks, and Queues
-- Challenge Solutions from [List any specific platforms if applicable, e.g., LeetCode, HackerRank]
-- Implementation of classic problems like the "Three Missionaries and Three Cannibals" puzzle
+- **Sorting and Searching Algorithms**
+    - Quick Sort Algorithm: A divide and conquer algorithm that sorts by selecting a 'pivot' element and partitioning the array around it.
+    - Binary Search: An efficient algorithm for finding an item from a sorted list of items, using a divide and conquer approach.
+    - Brute-force Pattern Matching: A straightforward approach to finding a substring within a string.
+    - KMP (Knuth-Morris-Pratt) Pattern Matching: An algorithm that improves the efficiency of substring search.
+    - Boyer-Moore Pattern Matching: A highly efficient string searching algorithm, particularly for large alphabets.
+
+- **Tree and Graph Algorithms**
+    - Binary Search Tree Implementation: A node-based tree data structure that maintains sorted data in a way that allows for efficient insertion, deletion, and lookup operations.
+    - Tree Traversal Techniques: Various methods (in-order, pre-order, post-order) for traversing or searching a tree structure.
+
+- **Data Structures**
+    - Linked Lists: Implementations of singly and doubly linked lists.
+    - Trees and Graphs: Basic tree structures and graph algorithms.
+    - Stacks: Implementation using arrays and linked lists, supporting basic operations like push, pop, and top.
+    - Queues: Implementation using circular arrays, supporting enqueue and dequeue operations.
+    - Hash Maps: Implementations using chaining and open addressing for collision resolution.
+
+- **Classic Problems and Implementations**
+    - The "Three Missionaries and Three Cannibals" puzzle.
+
+- **Map Implementations**
+    - Unsorted Table Map: A map implemented using an unsorted list.
+    - Chain Hash Map: A hash map implementation using separate chaining for collision resolution.
+
+
+---
 
 <h2>Coursework Overview</h2>
-<p>Click on any of the images below to explore the respective category:</p>
+<p>Click on any of the images below to explore the respective category File:</p>
 
 <table>
   <tr>
